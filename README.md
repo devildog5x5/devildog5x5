@@ -70,4 +70,4 @@ Professional video editor — available in C# (WPF/.NET 8) and Python (PyQt6) ed
 
 ---
 
-*Last updated: 2026-03-29*
+*Last updated: 2026-08-09*
