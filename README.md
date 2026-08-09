@@ -59,6 +59,20 @@ Professional video editor — available in C# (WPF/.NET 8) and Python (PyQt6) ed
 
 ---
 
+## Ledgerly ERP
+
+Windows client/server ERP for small businesses (inventory, purchasing, sales). Every installer asks Client / Server / Both. Requires .NET Framework 4.8 (Windows 7 SP1+).
+
+| Package | Download |
+|----------|----------|
+| Combined | [LedgerlySetup.exe](https://github.com/devildog5x5/ERP/releases/download/v1.5.3/LedgerlySetup.exe) |
+| Client package | [LedgerlyClientSetup.exe](https://github.com/devildog5x5/ERP/releases/download/v1.5.3/LedgerlyClientSetup.exe) |
+| Server package | [LedgerlyServerSetup.exe](https://github.com/devildog5x5/ERP/releases/download/v1.5.3/LedgerlyServerSetup.exe) |
+
+Default login: `admin` / `admin` | API: `http://127.0.0.1:8000` | [All releases](https://github.com/devildog5x5/ERP/releases) | [Source](https://github.com/devildog5x5/ERP)
+
+---
+
 ## Other Repositories
 
 | Project | Description | Link |
