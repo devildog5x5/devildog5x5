@@ -65,9 +65,9 @@ Windows client/server ERP + CRM (inventory, purchasing, sales, leads, pipeline).
 
 | Package | Download |
 |----------|----------|
-| Combined | [CoalesceSetup.exe](https://github.com/devildog5x5/ERP/releases/download/v1.6.8/CoalesceSetup.exe) |
-| Client package | [CoalesceClientSetup.exe](https://github.com/devildog5x5/ERP/releases/download/v1.6.8/CoalesceClientSetup.exe) |
-| Server package | [CoalesceServerSetup.exe](https://github.com/devildog5x5/ERP/releases/download/v1.6.8/CoalesceServerSetup.exe) |
+| Combined | [CoalesceSetup.exe](https://github.com/devildog5x5/ERP/releases/download/v1.6.9/CoalesceSetup.exe) |
+| Client package | [CoalesceClientSetup.exe](https://github.com/devildog5x5/ERP/releases/download/v1.6.9/CoalesceClientSetup.exe) |
+| Server package | [CoalesceServerSetup.exe](https://github.com/devildog5x5/ERP/releases/download/v1.6.9/CoalesceServerSetup.exe) |
 
 Default login: `admin` / `admin` | API: `http://127.0.0.1:8000` | [All releases](https://github.com/devildog5x5/ERP/releases) | [Source](https://github.com/devildog5x5/ERP)
 
